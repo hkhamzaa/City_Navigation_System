@@ -1,6 +1,4 @@
 
-Depolyed Link : https://web-production-c8bc6.up.railway.app/
-
 # **Islamabad Smart Navigation System**
 
 *A multi-route, traffic-aware, fuel-optimized navigation engine built with Flask, Leaflet, and OpenStreetMap.*
@@ -22,6 +20,7 @@ Islamabad Smart Navigation System is a complete navigation engine that provides:
 
 This project is designed to simulate a **real navigation system** similar to Google Maps but fully customized for Islamabad.
 
+Basically I forked it - as I was the contributor of this project , we built in a group
 ---
 
 ## **Tech Stack**
